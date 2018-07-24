@@ -15,3 +15,4 @@ setup(name='terrible-pip-package',
         'pymongo'
       ],
       zip_safe=False)
+#new stuf
